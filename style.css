@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: aqua;
+    color: #444;
+    padding: 20px;
+    text-align: center;
+}
+header h1 {
+    margin: 0;
+}
+section {
+    padding: 20px;
+}
+h2 {
+    margin-top: 0;
+}
+button {
+    background-color: rgb(129, 127, 255);
+    color: rgb(127, 210, 255);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: rgb(84, 165, 188);
+}
+footer {
+	background-color: #1f7489;
+	color: aquamarine;
+	padding: 10px;
+	text-align: center;
+	clear: both;
+}
